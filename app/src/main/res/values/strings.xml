@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">student_portal</string>
+    <string name="add_url">Add a url.</string>
 </resources>
